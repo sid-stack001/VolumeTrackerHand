@@ -35,3 +35,9 @@ Acknowledgments
 OpenCV for computer vision functionalities.
 PyCaw for audio control in Windows.
 Hand tracking techniques inspired by various computer vision projects.
+
+
+
+
+![Volume Control](rdme.png)
+
